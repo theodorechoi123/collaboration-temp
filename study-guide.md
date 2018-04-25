@@ -10,7 +10,7 @@ Git commands
 - push: TODO
 - pull: TODO
 - merge: TODO
-- fetch: TODO
+- fetch: Creates a temporary "branch" with all new commits from the specified remote repository
 - remote: TODO
 - reset: TODO
 - revert: TODO
