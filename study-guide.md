@@ -4,7 +4,7 @@ Git commands
 - add: TODO
 - commit: TODO
 - log: TODO
-- status: TODO
+- status: shows any changes or anything that occurred within the branch your HEAD is in
 - branch: TODO
 - checkout: TODO
 - push: TODO
